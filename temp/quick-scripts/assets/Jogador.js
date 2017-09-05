@@ -18,7 +18,8 @@ cc.Class({
         //    readonly: false,    // optional, default is false
         // },
         // ...
-        _acelerando: false
+        _acelerando: false,
+        _direcao: cc.Vec2
     },
 
     // use this for initialization
@@ -31,7 +32,12 @@ cc.Class({
     },
 
     mudarDirecao: function mudarDirecao(event) {
-        console.log(event);
+        var posicaoMouse = event.getLocation();
+        posicaoMouse = new cc.Vec2(posicaoMouse.x, posicaoMouse.y);
+
+        var direcao = posicaoMouse.sub(this.node.position);
+        direcao = direcao.normalize();
+        this._direcao = direcao;
     },
 
     teclaPressionada: function teclaPressionada(event) {
@@ -48,7 +54,7 @@ cc.Class({
 
     // called every frame, uncomment this function to activate update callback
     update: function update(dt) {
-        if (this._acelerando) this.node.x += 1;
+        if (this._acelerando) this.node.position = this.node.position.add(this._direcao);
     }
 });
 

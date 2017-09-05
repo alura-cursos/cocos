@@ -220,23 +220,23 @@
     "relativePath": "prefab/webview.prefab"
   },
   "404e59d2-8d8c-4e60-a885-fe735e49c807": {
-    "asset": 1504284778000,
-    "meta": 1504618990000,
+    "asset": 1504294598000,
+    "meta": 1504620771000,
     "relativePath": "hero.png"
   },
   "759ba231-198f-4e73-abc8-5d6bf642def0": {
-    "asset": 1504284784000,
-    "meta": 1504618991000,
+    "asset": 1504294600000,
+    "meta": 1504620770000,
     "relativePath": "enemy.png"
   },
   "4369928f-80d0-4f85-908d-d22c35dccbcf": {
-    "asset": 1504284774000,
-    "meta": 1504618991000,
+    "asset": 1504294594000,
+    "meta": 1504620771000,
     "relativePath": "Jogo.fire"
   },
   "708fc513-b882-4bb8-9405-9ea7051a1a89": {
-    "asset": 1504619255000,
-    "meta": 1504619286000,
+    "asset": 1504294596000,
+    "meta": 1504620771000,
     "relativePath": "Jogador.js"
   }
 }

@@ -18,7 +18,7 @@
                 "children": [
                   "hierarchy"
                 ],
-                "height": 299.984375,
+                "height": 285,
                 "type": "panel",
                 "width": 204
               },
@@ -27,7 +27,7 @@
                 "children": [
                   "assets"
                 ],
-                "height": 299,
+                "height": 313.984375,
                 "type": "panel",
                 "width": 204
               }
@@ -76,8 +76,8 @@
         "type": "dock-h"
       },
       "panels": [
-        "console",
         "inspector",
+        "console",
         "hierarchy",
         "assets",
         "scene",
