@@ -10,12 +10,19 @@ cc.Class({
 
     properties: {
         _acelerando: false,
-        vida: 100,
-        velocidade: 10
+        _vidaAtual: 0,
+        vidaMaxima: 100,
+        velocidade: 10,
+        barraVida: cc.ProgressBar,
+        pontuacao: 0,
+        label: cc.Label
+
     },
 
     // use this for initialization
     onLoad: function onLoad() {
+
+        this._vidaAtual = this.vidaMaxima;
         cc.systemEvent.on(cc.SystemEvent.EventType.KEY_DOWN, this.teclaPressionada, this);
         cc.systemEvent.on(cc.SystemEvent.EventType.KEY_UP, this.teclaSolta, this);
 
@@ -24,10 +31,25 @@ cc.Class({
         canvas.on("mousedown", this.atirar, this);
 
         cc.director.getCollisionManager().enabled = true;
+
+        this.barraVida.progress = 1;
+    },
+
+    adicionarPonto: function adicionarPonto(pontos) {
+        this.pontuacao += pontos;
+        this.label.string = "Pontos: " + this.pontuacao;
     },
 
     tomarDano: function tomarDano(dano) {
-        this.vida -= dano;
+        this._vidaAtual -= dano;
+
+        var porcentagemVida = this._vidaAtual / this.vidaMaxima;
+
+        this.barraVida.progress = porcentagemVida;
+
+        if (this._vidaAtual < 0) {
+            cc.director.loadScene("GameOver");
+        }
     },
 
     mudarDirecao: function mudarDirecao(event) {

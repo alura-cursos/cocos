@@ -5,11 +5,17 @@ cc.Class({
         inimigoPrefab : cc.Prefab,
         area: 10,
         tempo: 2,
+        espera:3,
     },
 
     // use this for initialization
     onLoad: function () {
-        this.schedule(this.gerar, this.tempo);
+        this.scheduleOnce(this.iniciarGeracao, this.espera);
+    },
+    
+    iniciarGeracao:function()
+    {
+      this.schedule(this.gerar, this.tempo);  
     },
     
     gerar:function()

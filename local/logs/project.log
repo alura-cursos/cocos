@@ -1,52 +1,148 @@
-2017-09-05T16:35:25.670Z - normal: Load ~/.CocosCreator/settings.json
-2017-09-05T16:35:25.674Z - normal: checking language setting...
-2017-09-05T16:35:25.674Z - normal: Language: en
-2017-09-05T16:35:26.088Z - success: protocol editor-framework registered
-2017-09-05T16:35:26.089Z - success: protocol app registered
-2017-09-05T16:35:26.089Z - success: protocol theme registered
-2017-09-05T16:35:26.089Z - success: protocol profile registered
-2017-09-05T16:35:26.089Z - success: protocol packages registered
-2017-09-05T16:35:26.091Z - success: protocol unpack registerred
-2017-09-05T16:35:26.091Z - success: protocol disable-commonjs registerred
-2017-09-05T16:35:28.136Z - normal: connected!
-2017-09-05T16:35:28.139Z - normal: Check project /Users/alura/Documents/Bugan/CocosCreator/Projeto/Aula4
-2017-09-05T16:35:28.140Z - normal: Initializing Cocos2d
-2017-09-05T16:35:28.265Z - normal: Initializing Asset Database
-2017-09-05T16:35:28.286Z - success: protocol uuid registerred
-2017-09-05T16:35:28.287Z - success: protocol db registerred
-2017-09-05T16:35:28.287Z - success: protocol thumbnail registerred
-2017-09-05T16:35:28.287Z - normal: Loading editor/builtin packages
-2017-09-05T16:35:28.303Z - success: anysdk loaded
-2017-09-05T16:35:28.408Z - success: assets loaded
-2017-09-05T16:35:28.411Z - success: builder loaded
-2017-09-05T16:35:28.415Z - success: hierarchy loaded
-2017-09-05T16:35:28.419Z - success: inspector loaded
-2017-09-05T16:35:28.420Z - success: keystore loaded
-2017-09-05T16:35:28.423Z - success: node-library loaded
-2017-09-05T16:35:28.425Z - success: package-asset loaded
-2017-09-05T16:35:28.426Z - success: preferences loaded
-2017-09-05T16:35:28.429Z - success: project-exporter loaded
-2017-09-05T16:35:28.440Z - success: project-importer loaded
-2017-09-05T16:35:28.443Z - success: project-settings loaded
-2017-09-05T16:35:28.446Z - success: ui-kit loaded
-2017-09-05T16:35:28.450Z - success: ui-grid loaded
-2017-09-05T16:35:28.457Z - success: scene loaded
-2017-09-05T16:35:28.458Z - success: sprite-editor loaded
-2017-09-05T16:35:28.462Z - success: store loaded
-2017-09-05T16:35:28.467Z - success: timeline loaded
-2017-09-05T16:35:28.467Z - normal: Loading builtin packages
-2017-09-05T16:35:28.471Z - success: asset-db-debugger loaded
-2017-09-05T16:35:28.472Z - success: color-picker loaded
-2017-09-05T16:35:28.476Z - success: console loaded
-2017-09-05T16:35:28.480Z - success: package-manager loaded
-2017-09-05T16:35:28.484Z - success: sdkbox loaded
-2017-09-05T16:35:28.487Z - success: tester loaded
-2017-09-05T16:35:28.491Z - success: ui-kit-preview-extra loaded
-2017-09-05T16:35:28.494Z - success: ui-kit-preview loaded
-2017-09-05T16:35:28.497Z - success: ui-tree loaded
-2017-09-05T16:35:29.136Z - normal: Initializing project /Users/alura/Documents/Bugan/CocosCreator/Projeto/Aula4
-2017-09-05T16:35:29.139Z - normal: Loading packages
-2017-09-05T16:35:29.144Z - normal: Watching packages
-2017-09-05T16:35:29.156Z - normal: Run Application
-2017-09-05T16:35:29.405Z - success: preview server running at http://localhost:7456
-2017-09-05T16:35:32.988Z - normal: 1.6.1
+2017-09-05T16:58:50.536Z - normal: Load ~/.CocosCreator/settings.json
+2017-09-05T16:58:50.540Z - normal: checking language setting...
+2017-09-05T16:58:50.540Z - normal: Language: en
+2017-09-05T16:58:50.987Z - success: protocol editor-framework registered
+2017-09-05T16:58:50.987Z - success: protocol app registered
+2017-09-05T16:58:50.987Z - success: protocol theme registered
+2017-09-05T16:58:50.987Z - success: protocol profile registered
+2017-09-05T16:58:50.987Z - success: protocol packages registered
+2017-09-05T16:58:50.989Z - success: protocol unpack registerred
+2017-09-05T16:58:50.989Z - success: protocol disable-commonjs registerred
+2017-09-05T16:58:53.986Z - normal: failed to connect login server due to request timeout
+2017-09-05T16:58:53.987Z - normal: Check project /Users/alura/Documents/Bugan/CocosCreator/Projeto/AliensWar
+2017-09-05T16:58:53.988Z - normal: Initializing Cocos2d
+2017-09-05T16:58:54.107Z - normal: Initializing Asset Database
+2017-09-05T16:58:54.212Z - success: protocol uuid registerred
+2017-09-05T16:58:54.213Z - success: protocol db registerred
+2017-09-05T16:58:54.213Z - success: protocol thumbnail registerred
+2017-09-05T16:58:54.213Z - normal: Loading editor/builtin packages
+2017-09-05T16:58:54.229Z - success: anysdk loaded
+2017-09-05T16:58:54.336Z - success: assets loaded
+2017-09-05T16:58:54.339Z - success: builder loaded
+2017-09-05T16:58:54.343Z - success: hierarchy loaded
+2017-09-05T16:58:54.347Z - success: inspector loaded
+2017-09-05T16:58:54.349Z - success: keystore loaded
+2017-09-05T16:58:54.353Z - success: node-library loaded
+2017-09-05T16:58:54.354Z - success: package-asset loaded
+2017-09-05T16:58:54.355Z - success: preferences loaded
+2017-09-05T16:58:54.358Z - success: project-exporter loaded
+2017-09-05T16:58:54.370Z - success: project-importer loaded
+2017-09-05T16:58:54.373Z - success: project-settings loaded
+2017-09-05T16:58:54.376Z - success: ui-kit loaded
+2017-09-05T16:58:54.384Z - success: ui-grid loaded
+2017-09-05T16:58:54.388Z - success: scene loaded
+2017-09-05T16:58:54.390Z - success: sprite-editor loaded
+2017-09-05T16:58:54.394Z - success: store loaded
+2017-09-05T16:58:54.398Z - success: timeline loaded
+2017-09-05T16:58:54.398Z - normal: Loading builtin packages
+2017-09-05T16:58:54.402Z - success: asset-db-debugger loaded
+2017-09-05T16:58:54.403Z - success: color-picker loaded
+2017-09-05T16:58:54.407Z - success: console loaded
+2017-09-05T16:58:54.411Z - success: package-manager loaded
+2017-09-05T16:58:54.416Z - success: sdkbox loaded
+2017-09-05T16:58:54.419Z - success: tester loaded
+2017-09-05T16:58:54.423Z - success: ui-kit-preview-extra loaded
+2017-09-05T16:58:54.426Z - success: ui-kit-preview loaded
+2017-09-05T16:58:54.429Z - success: ui-tree loaded
+2017-09-05T16:58:55.087Z - normal: Initializing project /Users/alura/Documents/Bugan/CocosCreator/Projeto/AliensWar
+2017-09-05T16:58:55.199Z - normal: Loading packages
+2017-09-05T16:58:55.204Z - normal: Watching packages
+2017-09-05T16:58:55.216Z - normal: Run Application
+2017-09-05T16:58:55.486Z - success: preview server running at http://localhost:7456
+2017-09-05T16:58:59.716Z - normal: 1.6.1
+2017-09-05T18:48:29.653Z - error: Project name is not legal, should only include character: [0-9], [a-z], [A-Z], [_]. And [-] is not support on android.
+    at Vue._build (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/builtin/builder/panel/builder.js:1:14128)
+    at Vue._build (app://bower_components/vue/dist/vue.js:220:74)
+    at Editor.Ipc.sendToPanel (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/builtin/builder/panel/builder.js:1:13578)
+    at EventEmitter.ipcRenderer.on (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/renderer/ipc.js:1:4424)
+    at emitMany (events.js:127:13)
+    at EventEmitter.emit (events.js:201:7)
+2017-09-05T19:05:26.931Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/alura/Documents/Bugan/CocosCreator/Projeto/AliensWar/build",
+  "debug": false,
+  "dest": "/Users/alura/Documents/Bugan/CocosCreator/Projeto/AliensWar/build/web-desktop",
+  "excludedModules": [],
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.AliensWar",
+  "platform": "web-desktop",
+  "previewHeight": 720,
+  "previewWidth": 1280,
+  "privateKey": "",
+  "renderMode": "0",
+  "scenes": [
+    "28eaf664-4f13-4353-8a14-156b03858a97",
+    "4369928f-80d0-4f85-908d-d22c35dccbcf"
+  ],
+  "sourceMaps": false,
+  "startScene": "28eaf664-4f13-4353-8a14-156b03858a97",
+  "template": "default",
+  "title": "AliensWar",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "project": "/Users/alura/Documents/Bugan/CocosCreator/Projeto/AliensWar",
+  "projectName": "AliensWar",
+  "debugBuildWorker": false
+}
+2017-09-05T19:05:26.935Z - normal: Building /Users/alura/Documents/Bugan/CocosCreator/Projeto/AliensWar
+2017-09-05T19:05:26.935Z - normal: Destination /Users/alura/Documents/Bugan/CocosCreator/Projeto/AliensWar/build/web-desktop
+2017-09-05T19:06:37.165Z - warn: Error: ipc timeout. message: scene:query-node, session: scene@renderer:70861
+2017-09-05T19:06:37.169Z - warn: Error: ipc timeout. message: scene:query-node, session: scene@renderer:70867
+2017-09-05T19:06:37.170Z - warn: Error: ipc timeout. message: scene:query-node, session: scene@renderer:70870
+2017-09-05T19:06:37.171Z - warn: Error: ipc timeout. message: scene:query-node, session: scene@renderer:70873
+2017-09-05T19:06:37.171Z - warn: Error: ipc timeout. message: scene:query-node, session: scene@renderer:70876
+2017-09-05T19:06:37.172Z - warn: Error: ipc timeout. message: scene:query-node, session: scene@renderer:70879
+2017-09-05T19:06:37.173Z - warn: Error: ipc timeout. message: scene:query-node, session: scene@renderer:70882
+2017-09-05T19:06:37.174Z - warn: Error: ipc timeout. message: scene:query-node, session: scene@renderer:70885
+2017-09-05T19:06:37.174Z - warn: Error: ipc timeout. message: scene:query-node, session: scene@renderer:70888
+2017-09-05T19:06:37.263Z - normal: Delete /Users/alura/Documents/Bugan/CocosCreator/Projeto/AliensWar/build/web-desktop/res/**/*
+2017-09-05T19:06:37.269Z - normal: Delete /Users/alura/Documents/Bugan/CocosCreator/Projeto/AliensWar/build/web-desktop/src/*/
+2017-09-05T19:06:39.727Z - normal: Compiled project javascript file successfully
+2017-09-05T19:06:39.727Z - normal: Start building assets
+2017-09-05T19:06:39.728Z - normal: Start spawn build-worker
+2017-09-05T19:06:40.694Z - normal: Finish spawn build-worker
+2017-09-05T19:06:40.695Z - normal: Start init build-worker
+2017-09-05T19:06:42.738Z - normal: 1.6.1
+2017-09-05T19:06:42.871Z - normal: Finish init build-worker
+2017-09-05T19:06:42.872Z - normal: Start build-assets in worker
+2017-09-05T19:06:43.523Z - normal: Finish build-assets in worker
+2017-09-05T19:06:43.537Z - normal: Finish building assets
+2017-09-05T19:06:43.595Z - normal: Start building raw assets
+2017-09-05T19:06:43.597Z - normal: [build-raw-assets] Start copying /Users/alura/Documents/Bugan/CocosCreator/Projeto/AliensWar/assets/bg_cloud.png to /Users/alura/Documents/Bugan/CocosCreator/Projeto/AliensWar/build/web-desktop/res/raw-assets/bg_cloud.png
+2017-09-05T19:06:43.598Z - normal: [build-raw-assets] Start copying /Users/alura/Documents/Bugan/CocosCreator/Projeto/AliensWar/assets/bg_stars.png to /Users/alura/Documents/Bugan/CocosCreator/Projeto/AliensWar/build/web-desktop/res/raw-assets/bg_stars.png
+2017-09-05T19:06:43.598Z - normal: [build-raw-assets] Start copying /Users/alura/Documents/Bugan/CocosCreator/Projeto/AliensWar/assets/bullet_09.png to /Users/alura/Documents/Bugan/CocosCreator/Projeto/AliensWar/build/web-desktop/res/raw-assets/bullet_09.png
+2017-09-05T19:06:43.599Z - normal: [build-raw-assets] Start copying /Users/alura/Documents/Bugan/CocosCreator/Projeto/AliensWar/assets/enemy.png to /Users/alura/Documents/Bugan/CocosCreator/Projeto/AliensWar/build/web-desktop/res/raw-assets/enemy.png
+2017-09-05T19:06:43.600Z - normal: Start building plugin scripts
+2017-09-05T19:06:43.757Z - normal: [build-raw-assets] Finish copying /Users/alura/Documents/Bugan/CocosCreator/Projeto/AliensWar/assets/bullet_09.png to /Users/alura/Documents/Bugan/CocosCreator/Projeto/AliensWar/build/web-desktop/res/raw-assets/bullet_09.png
+2017-09-05T19:06:43.757Z - normal: [build-raw-assets] Start copying /Users/alura/Documents/Bugan/CocosCreator/Projeto/AliensWar/assets/hero.png to /Users/alura/Documents/Bugan/CocosCreator/Projeto/AliensWar/build/web-desktop/res/raw-assets/hero.png
+2017-09-05T19:06:43.757Z - normal: [build-raw-assets] Finish copying /Users/alura/Documents/Bugan/CocosCreator/Projeto/AliensWar/assets/enemy.png to /Users/alura/Documents/Bugan/CocosCreator/Projeto/AliensWar/build/web-desktop/res/raw-assets/enemy.png
+2017-09-05T19:06:43.760Z - normal: [build-raw-assets] Finish copying /Users/alura/Documents/Bugan/CocosCreator/Projeto/AliensWar/assets/bg_stars.png to /Users/alura/Documents/Bugan/CocosCreator/Projeto/AliensWar/build/web-desktop/res/raw-assets/bg_stars.png
+2017-09-05T19:06:43.763Z - normal: [build-raw-assets] Finish copying /Users/alura/Documents/Bugan/CocosCreator/Projeto/AliensWar/assets/bg_cloud.png to /Users/alura/Documents/Bugan/CocosCreator/Projeto/AliensWar/build/web-desktop/res/raw-assets/bg_cloud.png
+2017-09-05T19:06:43.767Z - normal: [build-raw-assets] Finish copying /Users/alura/Documents/Bugan/CocosCreator/Projeto/AliensWar/assets/hero.png to /Users/alura/Documents/Bugan/CocosCreator/Projeto/AliensWar/build/web-desktop/res/raw-assets/hero.png
+2017-09-05T19:06:43.767Z - normal: [build-raw-assets] Start copying /Applications/CocosCreator.app/Contents/Resources/static/default-assets/image/default_progressbar.png to /Users/alura/Documents/Bugan/CocosCreator/Projeto/AliensWar/build/web-desktop/res/raw-internal/image/default_progressbar.png
+2017-09-05T19:06:43.767Z - normal: [build-raw-assets] Start copying /Applications/CocosCreator.app/Contents/Resources/static/default-assets/image/default_progressbar_bg.png to /Users/alura/Documents/Bugan/CocosCreator/Projeto/AliensWar/build/web-desktop/res/raw-internal/image/default_progressbar_bg.png
+2017-09-05T19:06:43.771Z - normal: [build-raw-assets] Finish copying /Applications/CocosCreator.app/Contents/Resources/static/default-assets/image/default_progressbar.png to /Users/alura/Documents/Bugan/CocosCreator/Projeto/AliensWar/build/web-desktop/res/raw-internal/image/default_progressbar.png
+2017-09-05T19:06:43.772Z - normal: [build-raw-assets] Finish copying /Applications/CocosCreator.app/Contents/Resources/static/default-assets/image/default_progressbar_bg.png to /Users/alura/Documents/Bugan/CocosCreator/Projeto/AliensWar/build/web-desktop/res/raw-internal/image/default_progressbar_bg.png
+2017-09-05T19:06:43.772Z - normal: Finish building raw assets
+2017-09-05T19:06:43.889Z - normal: Generating main.js from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/shares/main.js
+2017-09-05T19:06:43.934Z - normal: Generating html from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/web-desktop/template/index.html
+2017-09-05T19:06:43.956Z - normal: Built to "/Users/alura/Documents/Bugan/CocosCreator/Projeto/AliensWar/build/web-desktop" successfully

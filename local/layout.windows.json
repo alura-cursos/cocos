@@ -58,7 +58,7 @@
                 "width": 760
               },
               {
-                "active": 1,
+                "active": 0,
                 "children": [
                   "console",
                   "timeline"
@@ -92,6 +92,12 @@
       "y": 76,
       "width": 584,
       "height": 548
+    },
+    "builder": {
+      "x": 390,
+      "y": 23,
+      "width": 500,
+      "height": 693
     }
   }
 }

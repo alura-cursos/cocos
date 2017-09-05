@@ -219,59 +219,74 @@
     "meta": 1504103409000,
     "relativePath": "prefab/webview.prefab"
   },
-  "6342932f-4c12-471e-9b62-899795bbf87f": {
-    "asset": 1504557266000,
-    "meta": 1504629313000,
-    "relativePath": "bullet_09.png"
-  },
-  "5aa779de-6c16-456c-85d0-fd58d5bfd6b2": {
-    "asset": 1504557258000,
-    "meta": 1504629313000,
-    "relativePath": "enemy.prefab"
-  },
-  "759ba231-198f-4e73-abc8-5d6bf642def0": {
-    "asset": 1504557262000,
-    "meta": 1504629313000,
-    "relativePath": "enemy.png"
-  },
-  "e2e0157e-5735-4b57-846f-24b661c1339c": {
-    "asset": 1504557254000,
-    "meta": 1504629313000,
-    "relativePath": "Gerador.js"
-  },
   "404e59d2-8d8c-4e60-a885-fe735e49c807": {
-    "asset": 1504557250000,
-    "meta": 1504629313000,
+    "asset": 1504544848000,
+    "meta": 1504539195000,
     "relativePath": "hero.png"
   },
-  "a928a57e-070c-45c7-8d88-be219ce7a39b": {
-    "asset": 1504557246000,
-    "meta": 1504629313000,
-    "relativePath": "Inimigo.js"
-  },
-  "708fc513-b882-4bb8-9405-9ea7051a1a89": {
-    "asset": 1504557242000,
-    "meta": 1504629313000,
-    "relativePath": "Jogador.js"
+  "759ba231-198f-4e73-abc8-5d6bf642def0": {
+    "asset": 1504544856000,
+    "meta": 1504539195000,
+    "relativePath": "enemy.png"
   },
   "4369928f-80d0-4f85-908d-d22c35dccbcf": {
-    "asset": 1504629790000,
-    "meta": 1504629790000,
+    "asset": 1504640044000,
+    "meta": 1504640044000,
     "relativePath": "Jogo.fire"
   },
+  "6342932f-4c12-471e-9b62-899795bbf87f": {
+    "asset": 1504544858000,
+    "meta": 1504539195000,
+    "relativePath": "bullet_09.png"
+  },
+  "9017e145-c700-4d74-a758-dc800009da94": {
+    "asset": 1504544836000,
+    "meta": 1504539195000,
+    "relativePath": "Tiro.prefab"
+  },
+  "5aa779de-6c16-456c-85d0-fd58d5bfd6b2": {
+    "asset": 1504544948000,
+    "meta": 1504544948000,
+    "relativePath": "enemy.prefab"
+  },
   "26d12ffb-4103-46b9-a1a4-a45c60bb1419": {
-    "asset": 1504557234000,
-    "meta": 1504629314000,
+    "asset": 1504545581000,
+    "meta": 1504545600000,
     "relativePath": "Personagem.js"
   },
   "141bf9c6-fd00-4189-8a5c-7c9a38867a6b": {
-    "asset": 1504557230000,
-    "meta": 1504629314000,
+    "asset": 1504546034000,
+    "meta": 1504546038000,
     "relativePath": "Tiro.js"
   },
-  "9017e145-c700-4d74-a758-dc800009da94": {
-    "asset": 1504557226000,
-    "meta": 1504629314000,
-    "relativePath": "Tiro.prefab"
+  "a928a57e-070c-45c7-8d88-be219ce7a39b": {
+    "asset": 1504554688000,
+    "meta": 1504554689000,
+    "relativePath": "Inimigo.js"
+  },
+  "e2e0157e-5735-4b57-846f-24b661c1339c": {
+    "asset": 1504555748000,
+    "meta": 1504555749000,
+    "relativePath": "Gerador.js"
+  },
+  "83ba94b7-b832-4da0-87a2-66c2229ea7a8": {
+    "asset": 1504555884000,
+    "meta": 1504555884000,
+    "relativePath": "bg_cloud.png"
+  },
+  "9889204a-d1d4-4b05-b2c7-3671cac44629": {
+    "asset": 1504555884000,
+    "meta": 1504555884000,
+    "relativePath": "bg_stars.png"
+  },
+  "28eaf664-4f13-4353-8a14-156b03858a97": {
+    "asset": 1504556034000,
+    "meta": 1504556034000,
+    "relativePath": "GameOver.fire"
+  },
+  "708fc513-b882-4bb8-9405-9ea7051a1a89": {
+    "asset": 1504556080000,
+    "meta": 1504556081000,
+    "relativePath": "Jogador.js"
   }
 }
