@@ -1,52 +1,52 @@
-2017-09-05T14:12:47.369Z - normal: Load ~/.CocosCreator/settings.json
-2017-09-05T14:12:47.372Z - normal: checking language setting...
-2017-09-05T14:12:47.372Z - normal: Language: en
-2017-09-05T14:12:47.814Z - success: protocol editor-framework registered
-2017-09-05T14:12:47.814Z - success: protocol app registered
-2017-09-05T14:12:47.815Z - success: protocol theme registered
-2017-09-05T14:12:47.815Z - success: protocol profile registered
-2017-09-05T14:12:47.815Z - success: protocol packages registered
-2017-09-05T14:12:47.817Z - success: protocol unpack registerred
-2017-09-05T14:12:47.817Z - success: protocol disable-commonjs registerred
-2017-09-05T14:12:49.734Z - normal: connected!
-2017-09-05T14:12:49.736Z - normal: Check project /Users/alura/Documents/Bugan/CocosCreator/Projeto/Aula2
-2017-09-05T14:12:49.736Z - normal: Initializing Cocos2d
-2017-09-05T14:12:49.855Z - normal: Initializing Asset Database
-2017-09-05T14:12:49.895Z - success: protocol uuid registerred
-2017-09-05T14:12:49.896Z - success: protocol db registerred
-2017-09-05T14:12:49.896Z - success: protocol thumbnail registerred
-2017-09-05T14:12:49.897Z - normal: Loading editor/builtin packages
-2017-09-05T14:12:49.912Z - success: anysdk loaded
-2017-09-05T14:12:50.020Z - success: assets loaded
-2017-09-05T14:12:50.023Z - success: builder loaded
-2017-09-05T14:12:50.027Z - success: hierarchy loaded
-2017-09-05T14:12:50.031Z - success: inspector loaded
-2017-09-05T14:12:50.032Z - success: keystore loaded
-2017-09-05T14:12:50.036Z - success: node-library loaded
-2017-09-05T14:12:50.038Z - success: package-asset loaded
-2017-09-05T14:12:50.039Z - success: preferences loaded
-2017-09-05T14:12:50.042Z - success: project-exporter loaded
-2017-09-05T14:12:50.053Z - success: project-importer loaded
-2017-09-05T14:12:50.056Z - success: project-settings loaded
-2017-09-05T14:12:50.060Z - success: ui-kit loaded
-2017-09-05T14:12:50.064Z - success: ui-grid loaded
-2017-09-05T14:12:50.071Z - success: scene loaded
-2017-09-05T14:12:50.072Z - success: sprite-editor loaded
-2017-09-05T14:12:50.077Z - success: store loaded
-2017-09-05T14:12:50.082Z - success: timeline loaded
-2017-09-05T14:12:50.083Z - normal: Loading builtin packages
-2017-09-05T14:12:50.087Z - success: asset-db-debugger loaded
-2017-09-05T14:12:50.088Z - success: color-picker loaded
-2017-09-05T14:12:50.093Z - success: console loaded
-2017-09-05T14:12:50.096Z - success: package-manager loaded
-2017-09-05T14:12:50.101Z - success: sdkbox loaded
-2017-09-05T14:12:50.105Z - success: tester loaded
-2017-09-05T14:12:50.108Z - success: ui-kit-preview-extra loaded
-2017-09-05T14:12:50.112Z - success: ui-kit-preview loaded
-2017-09-05T14:12:50.115Z - success: ui-tree loaded
-2017-09-05T14:12:50.766Z - normal: Initializing project /Users/alura/Documents/Bugan/CocosCreator/Projeto/Aula2
-2017-09-05T14:12:50.785Z - normal: Loading packages
-2017-09-05T14:12:50.790Z - normal: Watching packages
-2017-09-05T14:12:50.803Z - normal: Run Application
-2017-09-05T14:12:51.506Z - success: preview server running at http://localhost:7456
-2017-09-05T14:12:55.082Z - normal: 1.6.1
+2017-09-05T14:48:40.386Z - normal: Load ~/.CocosCreator/settings.json
+2017-09-05T14:48:40.390Z - normal: checking language setting...
+2017-09-05T14:48:40.390Z - normal: Language: en
+2017-09-05T14:48:40.837Z - success: protocol editor-framework registered
+2017-09-05T14:48:40.838Z - success: protocol app registered
+2017-09-05T14:48:40.838Z - success: protocol theme registered
+2017-09-05T14:48:40.838Z - success: protocol profile registered
+2017-09-05T14:48:40.838Z - success: protocol packages registered
+2017-09-05T14:48:40.840Z - success: protocol unpack registerred
+2017-09-05T14:48:40.840Z - success: protocol disable-commonjs registerred
+2017-09-05T14:48:43.327Z - normal: connected!
+2017-09-05T14:48:43.328Z - normal: Check project /Users/alura/Documents/Bugan/CocosCreator/Projeto/Aula3
+2017-09-05T14:48:43.329Z - normal: Initializing Cocos2d
+2017-09-05T14:48:43.469Z - normal: Initializing Asset Database
+2017-09-05T14:48:43.491Z - success: protocol uuid registerred
+2017-09-05T14:48:43.491Z - success: protocol db registerred
+2017-09-05T14:48:43.491Z - success: protocol thumbnail registerred
+2017-09-05T14:48:43.492Z - normal: Loading editor/builtin packages
+2017-09-05T14:48:43.509Z - success: anysdk loaded
+2017-09-05T14:48:43.615Z - success: assets loaded
+2017-09-05T14:48:43.619Z - success: builder loaded
+2017-09-05T14:48:43.622Z - success: hierarchy loaded
+2017-09-05T14:48:43.626Z - success: inspector loaded
+2017-09-05T14:48:43.627Z - success: keystore loaded
+2017-09-05T14:48:43.631Z - success: node-library loaded
+2017-09-05T14:48:43.633Z - success: package-asset loaded
+2017-09-05T14:48:43.635Z - success: preferences loaded
+2017-09-05T14:48:43.637Z - success: project-exporter loaded
+2017-09-05T14:48:43.649Z - success: project-importer loaded
+2017-09-05T14:48:43.652Z - success: project-settings loaded
+2017-09-05T14:48:43.656Z - success: ui-kit loaded
+2017-09-05T14:48:43.663Z - success: ui-grid loaded
+2017-09-05T14:48:43.668Z - success: scene loaded
+2017-09-05T14:48:43.669Z - success: sprite-editor loaded
+2017-09-05T14:48:43.673Z - success: store loaded
+2017-09-05T14:48:43.678Z - success: timeline loaded
+2017-09-05T14:48:43.679Z - normal: Loading builtin packages
+2017-09-05T14:48:43.683Z - success: asset-db-debugger loaded
+2017-09-05T14:48:43.683Z - success: color-picker loaded
+2017-09-05T14:48:43.688Z - success: console loaded
+2017-09-05T14:48:43.692Z - success: package-manager loaded
+2017-09-05T14:48:43.696Z - success: sdkbox loaded
+2017-09-05T14:48:43.700Z - success: tester loaded
+2017-09-05T14:48:43.704Z - success: ui-kit-preview-extra loaded
+2017-09-05T14:48:43.707Z - success: ui-kit-preview loaded
+2017-09-05T14:48:43.710Z - success: ui-tree loaded
+2017-09-05T14:48:44.373Z - normal: Initializing project /Users/alura/Documents/Bugan/CocosCreator/Projeto/Aula3
+2017-09-05T14:48:44.375Z - normal: Loading packages
+2017-09-05T14:48:44.380Z - normal: Watching packages
+2017-09-05T14:48:44.392Z - normal: Run Application
+2017-09-05T14:48:45.122Z - success: preview server running at http://localhost:7456
+2017-09-05T14:48:48.753Z - normal: 1.6.1

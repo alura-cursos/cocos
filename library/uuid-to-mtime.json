@@ -220,23 +220,38 @@
     "relativePath": "prefab/webview.prefab"
   },
   "404e59d2-8d8c-4e60-a885-fe735e49c807": {
-    "asset": 1504294598000,
-    "meta": 1504620771000,
+    "asset": 1504303324000,
+    "meta": 1504622924000,
     "relativePath": "hero.png"
   },
   "759ba231-198f-4e73-abc8-5d6bf642def0": {
-    "asset": 1504294600000,
-    "meta": 1504620770000,
+    "asset": 1504303326000,
+    "meta": 1504622924000,
     "relativePath": "enemy.png"
   },
   "4369928f-80d0-4f85-908d-d22c35dccbcf": {
-    "asset": 1504294594000,
-    "meta": 1504620771000,
+    "asset": 1504303316000,
+    "meta": 1504622924000,
     "relativePath": "Jogo.fire"
   },
+  "6342932f-4c12-471e-9b62-899795bbf87f": {
+    "asset": 1504303328000,
+    "meta": 1504622924000,
+    "relativePath": "bullet_09.png"
+  },
+  "9017e145-c700-4d74-a758-dc800009da94": {
+    "asset": 1504303310000,
+    "meta": 1504622924000,
+    "relativePath": "Tiro.prefab"
+  },
   "708fc513-b882-4bb8-9405-9ea7051a1a89": {
-    "asset": 1504294596000,
-    "meta": 1504620771000,
+    "asset": 1504303318000,
+    "meta": 1504622924000,
     "relativePath": "Jogador.js"
+  },
+  "141bf9c6-fd00-4189-8a5c-7c9a38867a6b": {
+    "asset": 1504303314000,
+    "meta": 1504622924000,
+    "relativePath": "Tiro.js"
   }
 }
