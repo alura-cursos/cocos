@@ -39,7 +39,8 @@
           {
             "active": 0,
             "children": [
-              "inspector"
+              "inspector",
+              "node-library"
             ],
             "height": 602,
             "type": "panel",
@@ -57,11 +58,10 @@
                 "width": 760
               },
               {
-                "active": 0,
+                "active": 1,
                 "children": [
                   "console",
-                  "timeline",
-                  "node-library"
+                  "timeline"
                 ],
                 "height": 226,
                 "type": "panel",
@@ -80,11 +80,18 @@
         "console",
         "hierarchy",
         "assets",
+        "node-library",
         "scene",
-        "timeline",
-        "node-library"
+        "timeline"
       ]
     }
   },
-  "panels": {}
+  "panels": {
+    "project-settings": {
+      "x": 194,
+      "y": 76,
+      "width": 584,
+      "height": 548
+    }
+  }
 }

@@ -219,39 +219,59 @@
     "meta": 1504103409000,
     "relativePath": "prefab/webview.prefab"
   },
-  "404e59d2-8d8c-4e60-a885-fe735e49c807": {
-    "asset": 1504303324000,
-    "meta": 1504622924000,
-    "relativePath": "hero.png"
-  },
-  "759ba231-198f-4e73-abc8-5d6bf642def0": {
-    "asset": 1504303326000,
-    "meta": 1504622924000,
-    "relativePath": "enemy.png"
-  },
-  "4369928f-80d0-4f85-908d-d22c35dccbcf": {
-    "asset": 1504303316000,
-    "meta": 1504622924000,
-    "relativePath": "Jogo.fire"
-  },
   "6342932f-4c12-471e-9b62-899795bbf87f": {
-    "asset": 1504303328000,
-    "meta": 1504622924000,
+    "asset": 1504557266000,
+    "meta": 1504629313000,
     "relativePath": "bullet_09.png"
   },
-  "9017e145-c700-4d74-a758-dc800009da94": {
-    "asset": 1504303310000,
-    "meta": 1504622924000,
-    "relativePath": "Tiro.prefab"
+  "5aa779de-6c16-456c-85d0-fd58d5bfd6b2": {
+    "asset": 1504557258000,
+    "meta": 1504629313000,
+    "relativePath": "enemy.prefab"
+  },
+  "759ba231-198f-4e73-abc8-5d6bf642def0": {
+    "asset": 1504557262000,
+    "meta": 1504629313000,
+    "relativePath": "enemy.png"
+  },
+  "e2e0157e-5735-4b57-846f-24b661c1339c": {
+    "asset": 1504557254000,
+    "meta": 1504629313000,
+    "relativePath": "Gerador.js"
+  },
+  "404e59d2-8d8c-4e60-a885-fe735e49c807": {
+    "asset": 1504557250000,
+    "meta": 1504629313000,
+    "relativePath": "hero.png"
+  },
+  "a928a57e-070c-45c7-8d88-be219ce7a39b": {
+    "asset": 1504557246000,
+    "meta": 1504629313000,
+    "relativePath": "Inimigo.js"
   },
   "708fc513-b882-4bb8-9405-9ea7051a1a89": {
-    "asset": 1504303318000,
-    "meta": 1504622924000,
+    "asset": 1504557242000,
+    "meta": 1504629313000,
     "relativePath": "Jogador.js"
   },
+  "4369928f-80d0-4f85-908d-d22c35dccbcf": {
+    "asset": 1504629790000,
+    "meta": 1504629790000,
+    "relativePath": "Jogo.fire"
+  },
+  "26d12ffb-4103-46b9-a1a4-a45c60bb1419": {
+    "asset": 1504557234000,
+    "meta": 1504629314000,
+    "relativePath": "Personagem.js"
+  },
   "141bf9c6-fd00-4189-8a5c-7c9a38867a6b": {
-    "asset": 1504303314000,
-    "meta": 1504622924000,
+    "asset": 1504557230000,
+    "meta": 1504629314000,
     "relativePath": "Tiro.js"
+  },
+  "9017e145-c700-4d74-a758-dc800009da94": {
+    "asset": 1504557226000,
+    "meta": 1504629314000,
+    "relativePath": "Tiro.prefab"
   }
 }

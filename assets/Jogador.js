@@ -1,11 +1,10 @@
+let Personagem = require("Personagem");
 cc.Class({
-    extends: cc.Component,
+    extends: Personagem,
 
     properties: {
         _acelerando:false,
-        _direcao: cc.Vec2,
-        
-        tiroPrefab: cc.Prefab,
+       vida : 100,
         velocidade: 10,
     },
 
@@ -22,15 +21,11 @@ cc.Class({
         
     },
     
-    atirar: function(event)
+    tomarDano:function(dano)
     {
-        let tiro = cc.instantiate(this.tiroPrefab);
-        tiro.parent = this.node.parent;
-        tiro.position = this.node.position;
-        
-        let componenteTiro = tiro.getComponent("Tiro");
-        componenteTiro.direcao = this._direcao;
+      this.vida -= dano;  
     },
+
     
     mudarDirecao: function(event)
     {

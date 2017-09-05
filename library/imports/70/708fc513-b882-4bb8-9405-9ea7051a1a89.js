@@ -4,14 +4,13 @@ cc._RF.push(module, '708fcUTuIJLuJQFnqcFGhqJ', 'Jogador');
 
 "use strict";
 
+var Personagem = require("Personagem");
 cc.Class({
-    extends: cc.Component,
+    extends: Personagem,
 
     properties: {
         _acelerando: false,
-        _direcao: cc.Vec2,
-
-        tiroPrefab: cc.Prefab,
+        vida: 100,
         velocidade: 10
     },
 
@@ -27,13 +26,8 @@ cc.Class({
         cc.director.getCollisionManager().enabled = true;
     },
 
-    atirar: function atirar(event) {
-        var tiro = cc.instantiate(this.tiroPrefab);
-        tiro.parent = this.node.parent;
-        tiro.position = this.node.position;
-
-        var componenteTiro = tiro.getComponent("Tiro");
-        componenteTiro.direcao = this._direcao;
+    tomarDano: function tomarDano(dano) {
+        this.vida -= dano;
     },
 
     mudarDirecao: function mudarDirecao(event) {
