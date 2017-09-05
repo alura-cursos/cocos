@@ -1,0 +1,52 @@
+2017-09-05T13:43:07.385Z - normal: Load ~/.CocosCreator/settings.json
+2017-09-05T13:43:07.389Z - normal: checking language setting...
+2017-09-05T13:43:07.389Z - normal: Language: en
+2017-09-05T13:43:07.798Z - success: protocol editor-framework registered
+2017-09-05T13:43:07.799Z - success: protocol app registered
+2017-09-05T13:43:07.799Z - success: protocol theme registered
+2017-09-05T13:43:07.799Z - success: protocol profile registered
+2017-09-05T13:43:07.799Z - success: protocol packages registered
+2017-09-05T13:43:07.801Z - success: protocol unpack registerred
+2017-09-05T13:43:07.802Z - success: protocol disable-commonjs registerred
+2017-09-05T13:43:09.887Z - normal: connected!
+2017-09-05T13:43:09.889Z - normal: Check project /Users/alura/Documents/Bugan/CocosCreator/Projeto/Aula1
+2017-09-05T13:43:09.890Z - normal: Initializing Cocos2d
+2017-09-05T13:43:10.001Z - normal: Initializing Asset Database
+2017-09-05T13:43:10.021Z - success: protocol uuid registerred
+2017-09-05T13:43:10.021Z - success: protocol db registerred
+2017-09-05T13:43:10.022Z - success: protocol thumbnail registerred
+2017-09-05T13:43:10.022Z - normal: Loading editor/builtin packages
+2017-09-05T13:43:10.036Z - success: anysdk loaded
+2017-09-05T13:43:10.138Z - success: assets loaded
+2017-09-05T13:43:10.141Z - success: builder loaded
+2017-09-05T13:43:10.144Z - success: hierarchy loaded
+2017-09-05T13:43:10.148Z - success: inspector loaded
+2017-09-05T13:43:10.149Z - success: keystore loaded
+2017-09-05T13:43:10.153Z - success: node-library loaded
+2017-09-05T13:43:10.154Z - success: package-asset loaded
+2017-09-05T13:43:10.156Z - success: preferences loaded
+2017-09-05T13:43:10.158Z - success: project-exporter loaded
+2017-09-05T13:43:10.169Z - success: project-importer loaded
+2017-09-05T13:43:10.172Z - success: project-settings loaded
+2017-09-05T13:43:10.175Z - success: ui-kit loaded
+2017-09-05T13:43:10.179Z - success: ui-grid loaded
+2017-09-05T13:43:10.183Z - success: scene loaded
+2017-09-05T13:43:10.184Z - success: sprite-editor loaded
+2017-09-05T13:43:10.188Z - success: store loaded
+2017-09-05T13:43:10.192Z - success: timeline loaded
+2017-09-05T13:43:10.193Z - normal: Loading builtin packages
+2017-09-05T13:43:10.196Z - success: asset-db-debugger loaded
+2017-09-05T13:43:10.197Z - success: color-picker loaded
+2017-09-05T13:43:10.201Z - success: console loaded
+2017-09-05T13:43:10.204Z - success: package-manager loaded
+2017-09-05T13:43:10.208Z - success: sdkbox loaded
+2017-09-05T13:43:10.212Z - success: tester loaded
+2017-09-05T13:43:10.215Z - success: ui-kit-preview-extra loaded
+2017-09-05T13:43:10.219Z - success: ui-kit-preview loaded
+2017-09-05T13:43:10.221Z - success: ui-tree loaded
+2017-09-05T13:43:10.837Z - normal: Initializing project /Users/alura/Documents/Bugan/CocosCreator/Projeto/Aula1
+2017-09-05T13:43:10.838Z - normal: Loading packages
+2017-09-05T13:43:10.843Z - normal: Watching packages
+2017-09-05T13:43:10.856Z - normal: Run Application
+2017-09-05T13:43:11.568Z - success: preview server running at http://localhost:7456
+2017-09-05T13:43:14.915Z - normal: 1.6.1
